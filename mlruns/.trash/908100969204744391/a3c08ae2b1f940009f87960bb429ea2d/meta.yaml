@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/908100969204744391/a3c08ae2b1f940009f87960bb429ea2d/artifacts
+deleted_time: 1752831367849
+end_time: 1752831090119
+entry_point_name: ''
+experiment_id: '908100969204744391'
+lifecycle_stage: deleted
+run_id: a3c08ae2b1f940009f87960bb429ea2d
+run_name: legendary-auk-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752831088186
+status: 3
+tags: []
+user_id: aniketpatil

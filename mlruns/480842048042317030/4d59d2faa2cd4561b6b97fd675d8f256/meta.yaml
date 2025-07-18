@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/480842048042317030/4d59d2faa2cd4561b6b97fd675d8f256/artifacts
+end_time: 1752860823708
+entry_point_name: ''
+experiment_id: '480842048042317030'
+lifecycle_stage: active
+run_id: 4d59d2faa2cd4561b6b97fd675d8f256
+run_name: merciful-penguin-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752860821408
+status: 3
+tags: []
+user_id: aniketpatil

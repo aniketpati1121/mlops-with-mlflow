@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/908100969204744391/a2553586aeda4e6cad96e42019870556/artifacts
+deleted_time: 1752859021042
+end_time: 1752831130893
+entry_point_name: ''
+experiment_id: '908100969204744391'
+lifecycle_stage: deleted
+run_id: a2553586aeda4e6cad96e42019870556
+run_name: enchanting-crab-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752831128805
+status: 3
+tags: []
+user_id: aniketpatil

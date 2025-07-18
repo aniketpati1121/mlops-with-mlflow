@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/908100969204744391/f02759be7a1945c1818a8fc0a4a111c4/artifacts
+deleted_time: 1752831359351
+end_time: 1752831079192
+entry_point_name: ''
+experiment_id: '908100969204744391'
+lifecycle_stage: deleted
+run_id: f02759be7a1945c1818a8fc0a4a111c4
+run_name: traveling-fish-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752831077092
+status: 3
+tags: []
+user_id: aniketpatil

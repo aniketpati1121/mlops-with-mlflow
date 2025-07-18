@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/908100969204744391
+creation_time: 1752830991306
+experiment_id: '908100969204744391'
+last_update_time: 1752859021042
+lifecycle_stage: deleted
+name: mlops-with-mlflow
+tags: {}

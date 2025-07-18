@@ -1,0 +1,13 @@
+## Meaning of max_depth:
+max_depth controls the maximum depth of the tree, i.e.,
+How many levels (layers) the tree is allowed to grow.
+
+Example:
+If max_depth=3, the tree can split the data into at most 3 levels of decisions. 
+
+
+## Meaning of n_estimators:
+It controls the number of trees (or models) in your ensemble.
+Example:
+Random Forest → n_estimators=100
+Means: 100 Decision Trees will be trained and combined (via majority voting or averaging).

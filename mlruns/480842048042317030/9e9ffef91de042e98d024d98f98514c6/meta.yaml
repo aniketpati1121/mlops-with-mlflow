@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/480842048042317030/9e9ffef91de042e98d024d98f98514c6/artifacts
+end_time: 1752859353856
+entry_point_name: ''
+experiment_id: '480842048042317030'
+lifecycle_stage: active
+run_id: 9e9ffef91de042e98d024d98f98514c6
+run_name: awesome-hog-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752859350498
+status: 3
+tags: []
+user_id: aniketpatil
