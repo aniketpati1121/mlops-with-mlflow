@@ -9,9 +9,10 @@ import seaborn as sns
 
 import dagshub
 # dagshub.init(repo_owner='aniketpatil', repo_name='data-mlflow-aniket', mlflow=True)
-dagshub.init(repo_owner='aniketpati1121', repo_name='data-mlflow-aniket', mlflow=True)
+dagshub.init(repo_owner='aniketpati1121', repo_name='mlops-with-aniket', mlflow=True)
 
-mlflow.set_tracking_uri("https://dagshub.com/aniketpati1121/mlops-with-mlflow")
+# mlflow.set_tracking_uri("https://dagshub.com/aniketpati1121/mlops-with-mlflow")
+mlflow.set_tracking_uri("https://dagshub.com/aniketpati1121/mlops-with-aniket")
 
 # Load Wine dataset
 wine = load_wine()
@@ -26,7 +27,7 @@ max_depth = 8
 n_estimators = 5
 
 # Mention your experiment below
-mlflow.set_experiment('YT-MLOPS-Exp2')
+#mlflow.set_experiment('YT-MLOPS-Exp2')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
