@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/480842048042317030/6a2c4a7bcf154b50bf03660d54fee0bb/artifacts
+end_time: 1752899114624
+entry_point_name: ''
+experiment_id: '480842048042317030'
+lifecycle_stage: active
+run_id: 6a2c4a7bcf154b50bf03660d54fee0bb
+run_name: chill-elk-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752899114417
+status: 3
+tags: []
+user_id: aniketpatil
