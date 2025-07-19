@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/ee5bb95c86124037a6c149fe03fa9085/artifacts
+end_time: 1752900816299
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: ee5bb95c86124037a6c149fe03fa9085
+run_name: stylish-cat-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900816293
+status: 3
+tags: []
+user_id: aniketpatil

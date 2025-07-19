@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/5ebd96d042a04b569bf8e11815bc9af8/artifacts
+end_time: 1752900818399
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: 5ebd96d042a04b569bf8e11815bc9af8
+run_name: tasteful-frog-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900813506
+status: 3
+tags: []
+user_id: aniketpatil

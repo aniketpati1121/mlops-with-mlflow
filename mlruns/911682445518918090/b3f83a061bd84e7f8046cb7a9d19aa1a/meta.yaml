@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/b3f83a061bd84e7f8046cb7a9d19aa1a/artifacts
+end_time: 1752900972185
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: b3f83a061bd84e7f8046cb7a9d19aa1a
+run_name: mercurial-toad-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900972178
+status: 3
+tags: []
+user_id: aniketpatil

@@ -3,8 +3,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_breast_cancer
 import pandas as pd
-import mlflow 
-import dagshub
+import mlflow
 
 # Load the Breast Cancer dataset
 data = load_breast_cancer()
@@ -37,7 +36,7 @@ grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1,
 # print(best_score)
 # # Till here
 
-dagshub.init(repo_owner='aniketpati1121', repo_name='mlops-with-aniket', mlflow=True)
+
 mlflow.set_experiment('breast-cancer-rf-hp')
 
 with mlflow.start_run() as parent:

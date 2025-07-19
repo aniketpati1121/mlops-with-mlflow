@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/4510eb5e530240448e465d69d168fa60/artifacts
+end_time: 1752900816278
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: 4510eb5e530240448e465d69d168fa60
+run_name: agreeable-fly-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900816272
+status: 3
+tags: []
+user_id: aniketpatil

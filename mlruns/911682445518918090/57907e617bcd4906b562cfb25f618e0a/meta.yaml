@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/57907e617bcd4906b562cfb25f618e0a/artifacts
+end_time: 1752900972213
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: 57907e617bcd4906b562cfb25f618e0a
+run_name: big-bat-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900972207
+status: 3
+tags: []
+user_id: aniketpatil

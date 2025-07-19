@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/566c3b2161194de9836e17d6b80e42a5/artifacts
+end_time: 1752900816272
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: 566c3b2161194de9836e17d6b80e42a5
+run_name: resilient-bat-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900816265
+status: 3
+tags: []
+user_id: aniketpatil

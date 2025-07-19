@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/a1466854441242ddb7a5a40203315873/artifacts
+end_time: 1752900972206
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: a1466854441242ddb7a5a40203315873
+run_name: defiant-mule-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900972199
+status: 3
+tags: []
+user_id: aniketpatil

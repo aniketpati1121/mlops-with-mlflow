@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/f959ed12014b45db8501c4864eb46e7c/artifacts
+end_time: 1752900816249
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: f959ed12014b45db8501c4864eb46e7c
+run_name: receptive-owl-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900816243
+status: 3
+tags: []
+user_id: aniketpatil

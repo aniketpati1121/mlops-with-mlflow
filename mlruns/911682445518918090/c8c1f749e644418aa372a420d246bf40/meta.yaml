@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/c8c1f749e644418aa372a420d246bf40/artifacts
+end_time: 1752900816264
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: c8c1f749e644418aa372a420d246bf40
+run_name: unleashed-ant-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900816257
+status: 3
+tags: []
+user_id: aniketpatil

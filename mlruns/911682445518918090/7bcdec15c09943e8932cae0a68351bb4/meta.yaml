@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/7bcdec15c09943e8932cae0a68351bb4/artifacts
+end_time: 1752900972255
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: 7bcdec15c09943e8932cae0a68351bb4
+run_name: clean-steed-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900972250
+status: 3
+tags: []
+user_id: aniketpatil

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/1be3d643e52a4340af05b3ee1ec2c93d/artifacts
+end_time: 1752900972220
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: 1be3d643e52a4340af05b3ee1ec2c93d
+run_name: auspicious-bird-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900972214
+status: 3
+tags: []
+user_id: aniketpatil

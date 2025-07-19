@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/2dcecb6d50da429bbb50183d8f366f07/artifacts
+end_time: 1752900816312
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: 2dcecb6d50da429bbb50183d8f366f07
+run_name: capable-moth-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900816306
+status: 3
+tags: []
+user_id: aniketpatil
