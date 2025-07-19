@@ -1,0 +1,10 @@
+artifact_location: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/models/m-0d242e19e9b7428b859d91bcbf0bb4aa/artifacts
+creation_timestamp: 1752900464882
+experiment_id: '911682445518918090'
+last_updated_timestamp: 1752900468411
+model_id: m-0d242e19e9b7428b859d91bcbf0bb4aa
+model_type: null
+name: random_forest
+source_run_id: cb7a2314177a4a2e80367ebb86eeafcc
+status: 2
+status_message: null

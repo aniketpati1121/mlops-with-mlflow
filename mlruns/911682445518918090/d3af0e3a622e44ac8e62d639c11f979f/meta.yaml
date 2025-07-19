@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/d3af0e3a622e44ac8e62d639c11f979f/artifacts
+end_time: 1752900464787
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: d3af0e3a622e44ac8e62d639c11f979f
+run_name: youthful-bass-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900464781
+status: 3
+tags: []
+user_id: aniketpatil

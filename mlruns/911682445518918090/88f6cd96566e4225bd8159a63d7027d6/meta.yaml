@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/88f6cd96566e4225bd8159a63d7027d6/artifacts
+end_time: 1752900464827
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: 88f6cd96566e4225bd8159a63d7027d6
+run_name: powerful-tern-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900464821
+status: 3
+tags: []
+user_id: aniketpatil

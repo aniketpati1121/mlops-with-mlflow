@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/a849c119da2f43e897cb6ac45734c53f/artifacts
+end_time: 1752900464780
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: a849c119da2f43e897cb6ac45734c53f
+run_name: caring-mare-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900464770
+status: 3
+tags: []
+user_id: aniketpatil

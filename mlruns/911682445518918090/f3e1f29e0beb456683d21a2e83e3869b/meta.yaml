@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/f3e1f29e0beb456683d21a2e83e3869b/artifacts
+end_time: 1752900464847
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: f3e1f29e0beb456683d21a2e83e3869b
+run_name: carefree-crane-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900464841
+status: 3
+tags: []
+user_id: aniketpatil

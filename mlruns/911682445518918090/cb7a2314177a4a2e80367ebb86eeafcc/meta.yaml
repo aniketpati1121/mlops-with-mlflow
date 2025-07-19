@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aniketpatil/mlops-with-mlflow/mlops-with-mlflow/mlruns/911682445518918090/cb7a2314177a4a2e80367ebb86eeafcc/artifacts
+end_time: 1752900468413
+entry_point_name: ''
+experiment_id: '911682445518918090'
+lifecycle_stage: active
+run_id: cb7a2314177a4a2e80367ebb86eeafcc
+run_name: luminous-vole-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752900461842
+status: 3
+tags: []
+user_id: aniketpatil
