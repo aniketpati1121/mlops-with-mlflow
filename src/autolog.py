@@ -7,7 +7,12 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+import dagshub
+#dagshub.init(repo_owner='aniketpatil', repo_name='mlops-with-mlflow', mlflow=True)
+dagshub.init(repo_owner='aniketpati1121', repo_name='mlops-with-aniket', mlflow=True)
+
+#mlflow.set_tracking_uri("https://dagshub.com/aniketpati1121/mlops-with-mlflow.mlflow")
+dagshub.init(repo_owner='aniketpati1121', repo_name='mlops-with-aniket', mlflow=True)
 
 # Load Wine dataset
 wine = load_wine()
@@ -18,12 +23,11 @@ y = wine.target
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=42)
 
 # Define the params for RF model
-max_depth = 9
+max_depth = 22
 n_estimators = 4
 
 # Mention your experiment below
-mlflow.autolog
-mlflow.set_experiment('Aniket Patil Data Science')
+mlflow.set_experiment('pranav nage')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
@@ -44,16 +48,21 @@ with mlflow.start_run():
     plt.savefig("Confusion-matrix.png")
 
     # log artifacts using mlflow
-
+    mlflow.log_artifact("Confusion-matrix.png")
     mlflow.log_artifact(__file__)
 
     # tags
-    mlflow.set_tags({"Author": 'Aniket D Patil', "Project": "Wine Classification"})
+    mlflow.set_tags({"Author": 'Vikash', "Project": "Wine Classification"})
 
-    print(accuracy) 
+import pickle
 
+# Save model to local file
+with open("RandomForest.pkl", "wb") as f:
+    pickle.dump(rf, f)
 
+# # Log the model file as an artifact to DagsHub
+# mlflow.log_artifact("RandomForest.pkl")
 
+    
 
-    # open port command (mlflow ui)
-    # save a file and new file coomand is (src/file1.py)
+print(accuracy)
